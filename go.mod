@@ -1,4 +1,4 @@
-module httpx
+module github.com/jiaocoll/httpx
 
 go 1.19
 
