@@ -2,6 +2,9 @@ package httpx
 
 import (
 	"bytes"
+	"golang.org/x/text/encoding/simplifiedchinese"
+	"golang.org/x/text/encoding/traditionalchinese"
+	"golang.org/x/text/transform"
 	"io/ioutil"
 )
 
